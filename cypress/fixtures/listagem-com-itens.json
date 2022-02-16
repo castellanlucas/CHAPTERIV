@@ -1,0 +1,32 @@
+[
+    {
+        "firstName": "JOAO",
+        "lastName": "MARIA",
+        "adress": "rua ouricuri 140",
+        "emailAdress": "castellanlucas@gmail.com",
+        "radioGender": "m",
+        "checks": [
+            "Netflix",
+            "Dormir"
+        ],
+        "selectCountries": "Dinamarca",
+        "selectYears": "2020",
+        "selectMonths": "Abril",
+        "pwd": "Teset123"
+    },
+    {
+        "firstName": "GABRIEL",
+        "lastName": "ELIZINIGHT",
+        "adress": "rua JOSE CLAUDIO 10",
+        "emailAdress": "lucas@gmail.com",
+        "radioGender": "m",
+        "checks": [
+            "Netflix",
+            "Dormir"
+        ],
+        "selectCountries": "Dinamarca",
+        "selectYears": "2020",
+        "selectMonths": "Abril",
+        "pwd": "Teset123"
+    }
+]
